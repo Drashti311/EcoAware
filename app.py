@@ -12,7 +12,6 @@ st.set_page_config(
 def load_data():
     return pd.read_csv("cleaned_carbon_data.csv")
 
-
 @st.cache_resource
 def load_model():
     return joblib.load("linear_regression_model.pkl")
