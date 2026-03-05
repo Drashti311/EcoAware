@@ -913,7 +913,6 @@ underweight,male,vegan,more frequently,natural gas,walk/bicycle,No Vehicle,never
 normal,male,vegan,daily,wood,private,diesel,never,120,very frequently,463,extra large,2,1,44,1,No,[],"['Oven', 'Microwave']",2929
 overweight,female,vegetarian,less frequently,natural gas,walk/bicycle,No Vehicle,never,85,very frequently,62,large,3,7,42,0,Sometimes,['Plastic'],"['Stove', 'Microwave', 'Grill', 'Airfryer']",2618
 overweight,female,pescatarian,more frequently,coal,public,No Vehicle,often,105,rarely,955,medium,6,15,32,22,Sometimes,"['Plastic', 'Glass', 'Metal']",['Oven'],2032
-obese,female,omnivore,less frequently,wood,private,lpg,often,205,very frequently,3470,medium,4,17,46,16,Yes,[],['Oven'],4378
 underweight,male,vegetarian,more frequently,coal,walk/bicycle,No Vehicle,sometimes,228,frequently,1,small,3,24,19,3,No,['Plastic'],['Microwave'],1978
 overweight,female,vegan,less frequently,natural gas,walk/bicycle,No Vehicle,never,82,very frequently,96,medium,1,2,7,22,Yes,"['Plastic', 'Metal']","['Grill', 'Airfryer']",1821
 underweight,male,vegan,less frequently,coal,walk/bicycle,No Vehicle,never,271,frequently,72,large,2,14,29,15,Sometimes,[],[],2114
@@ -1279,7 +1278,6 @@ overweight,female,pescatarian,twice a day,electricity,public,No Vehicle,never,24
 underweight,female,omnivore,daily,wood,private,hybrid,often,112,very frequently,1844,small,7,6,5,8,Yes,"['Paper', 'Plastic', 'Glass', 'Metal']",[],2011
 underweight,male,vegan,less frequently,coal,walk/bicycle,No Vehicle,often,100,very frequently,66,large,7,1,5,12,Sometimes,['Paper'],"['Stove', 'Microwave', 'Grill', 'Airfryer']",2774
 underweight,female,pescatarian,daily,electricity,walk/bicycle,No Vehicle,often,298,never,9,large,4,16,31,6,Yes,"['Plastic', 'Glass']",['Stove'],1101
-obese,female,omnivore,less frequently,electricity,private,lpg,never,243,rarely,8133,extra large,4,24,21,23,No,[],"['Stove', 'Oven', 'Microwave', 'Grill', 'Airfryer']",4372
 overweight,female,vegan,less frequently,coal,public,No Vehicle,often,139,rarely,1893,medium,2,9,39,1,Yes,"['Plastic', 'Glass']","['Stove', 'Oven', 'Grill', 'Airfryer']",1686
 underweight,male,vegetarian,daily,wood,walk/bicycle,No Vehicle,sometimes,232,very frequently,59,small,7,14,22,9,No,"['Paper', 'Plastic']","['Stove', 'Grill', 'Airfryer']",2361
 obese,male,omnivore,less frequently,natural gas,public,No Vehicle,often,173,frequently,678,small,1,3,1,19,No,"['Paper', 'Glass', 'Metal']","['Oven', 'Microwave']",1841
@@ -1889,7 +1887,6 @@ overweight,male,vegan,less frequently,natural gas,private,petrol,sometimes,75,fr
 normal,female,vegan,more frequently,coal,walk/bicycle,No Vehicle,often,99,rarely,35,medium,4,14,35,22,Sometimes,"['Plastic', 'Glass']","['Oven', 'Microwave', 'Grill', 'Airfryer']",1805
 underweight,male,pescatarian,less frequently,wood,public,No Vehicle,never,298,very frequently,985,small,7,22,38,24,No,[],"['Stove', 'Oven', 'Microwave']",3183
 overweight,female,vegetarian,twice a day,electricity,public,No Vehicle,never,215,never,1913,extra large,3,12,17,7,Yes,[],['Microwave'],1210
-obese,male,vegetarian,twice a day,electricity,private,hybrid,often,237,very frequently,5268,extra large,4,18,7,17,Yes,['Glass'],"['Stove', 'Oven', 'Microwave', 'Grill', 'Airfryer']",4367
 overweight,female,vegetarian,less frequently,natural gas,walk/bicycle,No Vehicle,sometimes,118,frequently,96,medium,5,23,10,10,No,['Plastic'],"['Microwave', 'Grill', 'Airfryer']",1824
 underweight,female,pescatarian,more frequently,natural gas,walk/bicycle,No Vehicle,sometimes,211,rarely,69,large,3,17,34,10,Sometimes,"['Paper', 'Glass', 'Metal']","['Grill', 'Airfryer']",1289
 obese,male,vegetarian,twice a day,natural gas,walk/bicycle,No Vehicle,never,123,very frequently,7,small,7,9,26,7,No,"['Paper', 'Glass']","['Stove', 'Oven', 'Microwave']",2924
@@ -2078,7 +2075,6 @@ normal,female,vegetarian,less frequently,coal,walk/bicycle,No Vehicle,sometimes,
 overweight,female,omnivore,less frequently,wood,public,No Vehicle,sometimes,289,frequently,1160,extra large,2,11,7,15,Yes,"['Paper', 'Plastic', 'Glass', 'Metal']",[],1713
 underweight,male,omnivore,more frequently,coal,public,No Vehicle,often,240,rarely,1497,large,4,1,34,9,No,"['Paper', 'Plastic', 'Metal']",['Microwave'],2055
 obese,male,pescatarian,daily,electricity,walk/bicycle,No Vehicle,sometimes,105,never,70,medium,5,17,22,13,Yes,"['Paper', 'Plastic', 'Glass']","['Grill', 'Airfryer']",1113
-obese,male,vegetarian,daily,electricity,private,lpg,sometimes,295,very frequently,2750,extra large,3,2,50,0,Sometimes,"['Paper', 'Glass', 'Metal']","['Stove', 'Oven', 'Grill', 'Airfryer']",4377
 underweight,male,pescatarian,less frequently,wood,private,diesel,sometimes,128,rarely,5220,small,4,22,29,20,Yes,['Metal'],['Microwave'],2639
 underweight,female,omnivore,less frequently,coal,private,hybrid,never,197,rarely,987,small,5,21,36,9,No,"['Paper', 'Metal']","['Oven', 'Microwave']",1612
 overweight,female,vegetarian,more frequently,coal,private,petrol,sometimes,80,very frequently,1312,extra large,6,10,46,23,No,"['Paper', 'Glass', 'Metal']",[],3636
@@ -2624,7 +2620,6 @@ underweight,female,pescatarian,more frequently,electricity,walk/bicycle,No Vehic
 obese,female,pescatarian,more frequently,coal,walk/bicycle,No Vehicle,never,55,frequently,22,extra large,4,7,29,0,Yes,['Paper'],"['Microwave', 'Grill', 'Airfryer']",2370
 underweight,female,vegan,more frequently,wood,walk/bicycle,No Vehicle,often,184,never,44,medium,1,4,14,16,No,['Plastic'],"['Stove', 'Oven', 'Microwave']",1022
 underweight,female,pescatarian,less frequently,natural gas,public,No Vehicle,often,243,never,1598,small,1,2,15,17,No,['Metal'],"['Stove', 'Oven', 'Microwave']",1074
-overweight,female,omnivore,less frequently,coal,private,petrol,often,104,frequently,5677,small,2,8,34,19,No,['Metal'],"['Oven', 'Microwave', 'Grill', 'Airfryer']",4385
 obese,female,vegan,twice a day,natural gas,walk/bicycle,No Vehicle,sometimes,267,never,83,medium,7,21,38,19,No,"['Paper', 'Plastic', 'Glass', 'Metal']","['Grill', 'Airfryer']",1618
 obese,male,pescatarian,less frequently,coal,private,electric,sometimes,121,never,667,medium,4,11,8,11,No,"['Paper', 'Glass']","['Stove', 'Microwave', 'Grill', 'Airfryer']",1499
 underweight,female,pescatarian,daily,wood,private,diesel,sometimes,286,very frequently,7330,large,5,0,18,9,Yes,"['Paper', 'Metal']","['Stove', 'Oven', 'Microwave', 'Grill', 'Airfryer']",3780
@@ -2970,7 +2965,6 @@ normal,female,pescatarian,more frequently,wood,walk/bicycle,No Vehicle,often,58,
 obese,male,pescatarian,less frequently,electricity,public,No Vehicle,sometimes,205,never,432,medium,4,23,17,12,No,"['Paper', 'Plastic', 'Glass']","['Microwave', 'Grill', 'Airfryer']",1159
 normal,male,omnivore,daily,wood,public,No Vehicle,sometimes,84,frequently,26,medium,3,24,45,3,Sometimes,"['Paper', 'Glass']","['Stove', 'Oven']",2011
 obese,male,vegan,daily,wood,private,petrol,sometimes,166,rarely,4195,medium,2,21,43,5,Yes,"['Paper', 'Metal']",['Oven'],3422
-normal,male,pescatarian,more frequently,natural gas,private,diesel,never,99,very frequently,9346,medium,1,20,14,2,No,"['Paper', 'Metal']","['Stove', 'Oven', 'Grill', 'Airfryer']",4401
 overweight,male,omnivore,more frequently,coal,public,No Vehicle,sometimes,108,never,1364,extra large,1,16,17,22,Sometimes,"['Paper', 'Plastic', 'Glass']",['Microwave'],1484
 overweight,male,vegan,more frequently,wood,walk/bicycle,No Vehicle,often,130,rarely,64,medium,5,14,6,15,Sometimes,"['Paper', 'Glass']","['Stove', 'Microwave', 'Grill', 'Airfryer']",1520
 normal,male,vegan,twice a day,electricity,walk/bicycle,No Vehicle,often,171,frequently,74,extra large,2,24,42,20,Yes,"['Paper', 'Glass', 'Metal']","['Oven', 'Microwave', 'Grill', 'Airfryer']",2079
@@ -3302,7 +3296,6 @@ normal,male,pescatarian,daily,natural gas,walk/bicycle,No Vehicle,sometimes,180,
 obese,male,vegan,more frequently,coal,walk/bicycle,No Vehicle,sometimes,202,frequently,19,small,3,6,31,9,Yes,"['Paper', 'Metal']","['Oven', 'Microwave', 'Grill', 'Airfryer']",2391
 obese,female,omnivore,more frequently,coal,public,No Vehicle,sometimes,254,very frequently,1681,large,3,24,30,7,Sometimes,"['Paper', 'Glass']",['Stove'],3268
 obese,female,vegan,twice a day,coal,private,hybrid,sometimes,70,frequently,7640,medium,1,23,32,13,No,"['Plastic', 'Glass', 'Metal']","['Grill', 'Airfryer']",3528
-normal,male,pescatarian,twice a day,wood,private,lpg,often,116,very frequently,6653,small,2,7,8,18,No,[],['Microwave'],4395
 normal,male,pescatarian,daily,natural gas,public,No Vehicle,never,276,rarely,1130,extra large,5,9,23,4,No,"['Paper', 'Metal']",['Stove'],1880
 overweight,female,vegetarian,twice a day,wood,public,No Vehicle,never,224,very frequently,313,extra large,3,14,49,15,No,"['Paper', 'Glass']","['Stove', 'Microwave', 'Grill', 'Airfryer']",3088
 underweight,female,vegan,more frequently,wood,walk/bicycle,No Vehicle,never,243,frequently,86,extra large,3,8,48,6,Yes,"['Plastic', 'Glass', 'Metal']","['Stove', 'Microwave']",1730
@@ -3991,7 +3984,6 @@ normal,female,vegan,more frequently,electricity,public,No Vehicle,never,247,freq
 underweight,male,vegan,less frequently,coal,walk/bicycle,No Vehicle,often,66,never,32,extra large,5,21,38,10,Yes,[],"['Grill', 'Airfryer']",2117
 normal,female,omnivore,less frequently,coal,public,No Vehicle,sometimes,95,very frequently,217,medium,5,12,21,19,Yes,"['Paper', 'Plastic', 'Metal']","['Stove', 'Microwave']",2359
 underweight,male,vegetarian,more frequently,coal,public,No Vehicle,sometimes,147,very frequently,1760,extra large,2,14,15,7,No,"['Paper', 'Plastic', 'Glass']","['Stove', 'Oven']",2477
-underweight,female,vegan,daily,natural gas,private,petrol,never,80,very frequently,7793,medium,2,22,20,19,No,[],['Oven'],4383
 obese,female,pescatarian,twice a day,electricity,private,petrol,sometimes,161,very frequently,3818,medium,2,0,26,7,Sometimes,"['Paper', 'Plastic', 'Metal']",['Oven'],3562
 normal,female,omnivore,more frequently,electricity,private,lpg,often,189,very frequently,2791,small,5,19,22,0,Sometimes,"['Paper', 'Plastic', 'Glass']","['Microwave', 'Grill', 'Airfryer']",2610
 obese,male,omnivore,more frequently,coal,private,petrol,never,155,rarely,3238,medium,3,22,49,23,Sometimes,['Metal'],['Stove'],3872
@@ -4378,7 +4370,6 @@ underweight,male,vegan,less frequently,wood,walk/bicycle,No Vehicle,often,273,ne
 normal,male,omnivore,twice a day,electricity,walk/bicycle,No Vehicle,sometimes,140,rarely,30,large,2,20,21,23,Yes,"['Paper', 'Plastic', 'Glass']","['Oven', 'Microwave', 'Grill', 'Airfryer']",1155
 underweight,female,vegetarian,twice a day,wood,public,No Vehicle,never,289,rarely,1059,extra large,7,24,9,5,Sometimes,"['Plastic', 'Glass']",['Stove'],1579
 normal,female,omnivore,more frequently,wood,private,hybrid,never,184,very frequently,5069,large,2,22,45,24,Sometimes,['Plastic'],"['Oven', 'Microwave']",3348
-normal,male,vegetarian,twice a day,wood,private,diesel,often,260,frequently,9714,small,3,20,39,23,Yes,"['Paper', 'Glass']","['Stove', 'Grill', 'Airfryer']",4362
 obese,female,pescatarian,twice a day,wood,private,petrol,sometimes,267,rarely,4768,large,1,21,16,20,Sometimes,['Glass'],"['Stove', 'Oven', 'Microwave']",3556
 overweight,male,omnivore,daily,wood,walk/bicycle,No Vehicle,often,79,very frequently,5,large,2,22,5,17,Sometimes,[],"['Stove', 'Oven', 'Grill', 'Airfryer']",2710
 normal,male,pescatarian,twice a day,wood,walk/bicycle,No Vehicle,sometimes,259,rarely,69,medium,6,23,2,7,Yes,"['Plastic', 'Metal']","['Oven', 'Microwave']",1384
@@ -4945,7 +4936,6 @@ obese,male,vegan,more frequently,electricity,public,No Vehicle,often,290,frequen
 overweight,male,omnivore,more frequently,electricity,walk/bicycle,No Vehicle,sometimes,193,frequently,35,extra large,4,4,47,21,No,"['Paper', 'Plastic', 'Glass', 'Metal']","['Stove', 'Microwave', 'Grill', 'Airfryer']",2558
 obese,male,vegetarian,less frequently,natural gas,private,electric,never,164,rarely,4581,small,1,22,9,11,Sometimes,['Paper'],['Microwave'],1085
 normal,male,vegan,less frequently,coal,private,petrol,never,274,never,4910,small,4,13,48,11,No,['Metal'],"['Oven', 'Microwave']",3732
-overweight,female,omnivore,daily,electricity,private,lpg,never,123,very frequently,5439,extra large,7,11,17,15,Sometimes,['Plastic'],"['Stove', 'Oven', 'Grill', 'Airfryer']",4386
 underweight,female,vegan,daily,coal,public,No Vehicle,never,62,frequently,1212,extra large,4,23,46,17,No,"['Paper', 'Plastic', 'Glass', 'Metal']",['Oven'],2006
 obese,male,pescatarian,daily,natural gas,private,electric,often,210,never,3136,large,1,13,15,15,No,"['Plastic', 'Metal']","['Microwave', 'Grill', 'Airfryer']",1454
 overweight,female,pescatarian,more frequently,wood,walk/bicycle,No Vehicle,sometimes,213,never,25,extra large,6,23,39,9,No,['Metal'],"['Stove', 'Microwave']",2098
@@ -5066,7 +5056,6 @@ normal,male,omnivore,twice a day,coal,private,diesel,often,115,very frequently,2
 underweight,male,vegan,daily,wood,walk/bicycle,No Vehicle,sometimes,75,never,79,small,7,10,40,23,Sometimes,"['Plastic', 'Glass']",[],1385
 normal,female,omnivore,daily,natural gas,public,No Vehicle,often,212,frequently,1082,small,5,1,20,3,No,"['Paper', 'Plastic', 'Glass']","['Stove', 'Grill', 'Airfryer']",1654
 overweight,female,vegan,less frequently,natural gas,public,No Vehicle,sometimes,81,rarely,1602,small,4,7,18,23,Yes,"['Paper', 'Plastic', 'Glass']","['Oven', 'Grill', 'Airfryer']",1184
-obese,male,omnivore,daily,electricity,private,hybrid,sometimes,105,very frequently,7567,small,6,20,35,8,Yes,"['Paper', 'Glass']","['Microwave', 'Grill', 'Airfryer']",4377
 overweight,female,vegan,less frequently,natural gas,walk/bicycle,No Vehicle,never,173,rarely,78,extra large,5,9,13,3,No,"['Glass', 'Metal']","['Stove', 'Grill', 'Airfryer']",1494
 normal,male,vegetarian,twice a day,natural gas,private,diesel,sometimes,126,frequently,3589,small,5,3,30,0,Sometimes,"['Paper', 'Plastic', 'Glass', 'Metal']",[],2422
 underweight,female,vegan,more frequently,wood,walk/bicycle,No Vehicle,often,124,never,80,small,1,6,34,23,Sometimes,[],"['Microwave', 'Grill', 'Airfryer']",1187
@@ -6410,7 +6399,6 @@ underweight,male,pescatarian,more frequently,natural gas,public,No Vehicle,somet
 overweight,male,vegetarian,less frequently,coal,walk/bicycle,No Vehicle,sometimes,179,never,33,small,6,1,27,12,Sometimes,"['Paper', 'Plastic']",['Microwave'],1517
 overweight,male,vegetarian,less frequently,coal,public,No Vehicle,sometimes,87,rarely,1719,medium,4,23,50,9,No,"['Paper', 'Metal']","['Oven', 'Microwave']",2250
 obese,female,vegan,less frequently,coal,walk/bicycle,No Vehicle,often,281,never,84,small,7,1,12,3,Sometimes,"['Plastic', 'Glass']",[],1368
-overweight,male,pescatarian,more frequently,coal,private,lpg,sometimes,105,rarely,6358,extra large,7,13,38,17,Sometimes,"['Plastic', 'Metal']","['Stove', 'Oven', 'Microwave']",4405
 normal,male,pescatarian,twice a day,natural gas,private,electric,never,73,rarely,8929,large,6,12,41,2,Yes,"['Paper', 'Plastic', 'Glass', 'Metal']",[],1515
 underweight,female,omnivore,more frequently,coal,walk/bicycle,No Vehicle,often,115,frequently,7,extra large,6,15,5,6,Sometimes,"['Glass', 'Metal']",['Oven'],2006
 normal,female,vegetarian,more frequently,wood,private,electric,often,56,rarely,1621,extra large,2,7,23,5,No,[],"['Stove', 'Grill', 'Airfryer']",1382
@@ -7185,7 +7173,6 @@ obese,female,vegetarian,daily,wood,private,hybrid,never,82,never,2900,large,1,15
 normal,male,pescatarian,more frequently,natural gas,walk/bicycle,No Vehicle,often,71,rarely,88,small,5,16,17,24,No,[],"['Oven', 'Microwave']",1659
 overweight,male,vegetarian,less frequently,natural gas,private,electric,never,228,never,3266,extra large,6,3,25,17,Sometimes,['Plastic'],"['Grill', 'Airfryer']",2163
 normal,female,omnivore,more frequently,natural gas,private,hybrid,never,234,rarely,5688,small,7,17,21,3,Sometimes,"['Paper', 'Glass']","['Stove', 'Oven', 'Microwave']",2171
-overweight,male,omnivore,daily,electricity,private,lpg,never,167,frequently,5978,extra large,6,24,13,21,Sometimes,['Metal'],"['Stove', 'Oven', 'Microwave', 'Grill', 'Airfryer']",4364
 normal,female,vegetarian,more frequently,wood,walk/bicycle,No Vehicle,sometimes,239,never,87,extra large,6,16,42,4,No,"['Paper', 'Plastic', 'Glass', 'Metal']","['Stove', 'Oven', 'Grill', 'Airfryer']",1655
 underweight,female,vegan,less frequently,wood,walk/bicycle,No Vehicle,sometimes,134,rarely,71,medium,1,16,29,0,No,[],"['Grill', 'Airfryer']",1087
 overweight,female,omnivore,more frequently,wood,walk/bicycle,No Vehicle,often,274,frequently,1,medium,7,16,22,18,No,['Glass'],"['Stove', 'Microwave']",2462
@@ -7387,7 +7374,6 @@ obese,male,vegetarian,more frequently,wood,walk/bicycle,No Vehicle,often,296,ver
 underweight,female,pescatarian,more frequently,coal,private,electric,sometimes,209,never,6528,extra large,6,8,24,22,No,['Plastic'],"['Oven', 'Microwave', 'Grill', 'Airfryer']",1858
 underweight,female,vegan,daily,wood,walk/bicycle,No Vehicle,never,68,rarely,48,extra large,7,22,21,13,Yes,"['Paper', 'Plastic', 'Metal']","['Stove', 'Grill', 'Airfryer']",1382
 overweight,male,pescatarian,less frequently,natural gas,walk/bicycle,No Vehicle,often,62,never,44,large,1,18,6,15,Yes,"['Plastic', 'Metal']",['Oven'],925
-normal,male,omnivore,daily,electricity,private,petrol,often,213,never,7782,medium,5,6,25,21,No,"['Paper', 'Plastic']","['Stove', 'Oven', 'Grill', 'Airfryer']",4394
 normal,female,pescatarian,less frequently,wood,walk/bicycle,No Vehicle,often,281,never,66,extra large,2,22,13,12,Yes,"['Paper', 'Glass']",['Oven'],1065
 underweight,female,vegan,daily,electricity,public,No Vehicle,sometimes,59,never,613,large,2,19,38,10,No,"['Paper', 'Glass', 'Metal']","['Oven', 'Grill', 'Airfryer']",819
 normal,male,omnivore,less frequently,coal,walk/bicycle,No Vehicle,often,120,rarely,75,medium,1,3,8,0,Sometimes,['Paper'],"['Oven', 'Microwave', 'Grill', 'Airfryer']",1330
@@ -7805,7 +7791,6 @@ normal,male,pescatarian,twice a day,coal,private,electric,never,264,very frequen
 overweight,male,pescatarian,more frequently,coal,private,electric,sometimes,169,very frequently,8533,extra large,2,12,4,17,Yes,"['Plastic', 'Glass', 'Metal']","['Microwave', 'Grill', 'Airfryer']",2618
 normal,male,omnivore,more frequently,electricity,walk/bicycle,No Vehicle,often,169,frequently,93,extra large,3,8,43,5,Sometimes,['Metal'],"['Stove', 'Oven', 'Microwave', 'Grill', 'Airfryer']",2388
 overweight,female,vegan,less frequently,coal,private,diesel,sometimes,279,frequently,586,small,1,5,15,9,Yes,['Metal'],['Oven'],1818
-obese,male,omnivore,more frequently,coal,private,petrol,sometimes,170,frequently,2834,large,6,4,25,9,Sometimes,"['Paper', 'Plastic']","['Stove', 'Oven']",4403
 obese,female,vegan,less frequently,natural gas,private,electric,often,182,never,2850,medium,1,9,45,2,No,[],"['Stove', 'Oven']",1586
 underweight,male,vegetarian,twice a day,wood,private,hybrid,sometimes,253,never,7829,extra large,2,6,25,17,No,"['Paper', 'Glass', 'Metal']","['Stove', 'Oven', 'Microwave', 'Grill', 'Airfryer']",2448
 underweight,male,pescatarian,twice a day,electricity,walk/bicycle,No Vehicle,never,66,frequently,57,small,5,15,29,11,Sometimes,"['Paper', 'Plastic', 'Glass']","['Grill', 'Airfryer']",1393
@@ -8031,7 +8016,6 @@ overweight,male,vegan,less frequently,coal,walk/bicycle,No Vehicle,often,285,fre
 obese,female,pescatarian,less frequently,natural gas,public,No Vehicle,often,149,rarely,99,extra large,3,22,22,13,Sometimes,"['Paper', 'Glass', 'Metal']",['Microwave'],1505
 overweight,male,vegan,daily,coal,private,electric,often,66,never,670,extra large,2,21,32,21,Sometimes,['Glass'],"['Microwave', 'Grill', 'Airfryer']",2026
 overweight,male,pescatarian,more frequently,coal,walk/bicycle,No Vehicle,never,234,rarely,81,large,2,18,7,14,Yes,['Metal'],"['Oven', 'Microwave']",1652
-normal,female,vegetarian,more frequently,coal,private,diesel,sometimes,82,very frequently,5916,extra large,6,1,48,19,Sometimes,"['Plastic', 'Metal']",['Microwave'],4374
 underweight,male,pescatarian,daily,wood,private,lpg,sometimes,174,rarely,3091,small,3,11,34,24,No,"['Paper', 'Plastic', 'Metal']","['Oven', 'Microwave', 'Grill', 'Airfryer']",2175
 underweight,female,vegetarian,more frequently,electricity,public,No Vehicle,often,271,rarely,1158,large,1,1,28,14,Sometimes,['Plastic'],[],1210
 overweight,male,pescatarian,twice a day,natural gas,walk/bicycle,No Vehicle,never,231,frequently,88,small,5,0,16,11,Sometimes,"['Paper', 'Glass', 'Metal']",['Oven'],1722
@@ -8680,7 +8664,6 @@ obese,female,omnivore,daily,natural gas,walk/bicycle,No Vehicle,sometimes,128,fr
 normal,male,vegan,twice a day,natural gas,public,No Vehicle,sometimes,181,very frequently,253,extra large,2,23,22,4,Sometimes,"['Paper', 'Metal']","['Stove', 'Oven']",2472
 obese,female,vegetarian,more frequently,electricity,public,No Vehicle,never,226,rarely,1637,small,6,13,39,3,Sometimes,['Plastic'],"['Stove', 'Microwave']",1582
 overweight,male,pescatarian,daily,electricity,walk/bicycle,No Vehicle,often,78,rarely,82,medium,6,11,37,13,Sometimes,"['Paper', 'Glass', 'Metal']","['Stove', 'Microwave']",1535
-obese,female,pescatarian,twice a day,coal,private,hybrid,never,188,very frequently,5156,large,7,19,33,20,Yes,"['Glass', 'Metal']","['Stove', 'Oven', 'Microwave', 'Grill', 'Airfryer']",4368
 overweight,female,vegetarian,twice a day,coal,public,No Vehicle,never,167,never,207,extra large,6,8,37,18,Yes,"['Paper', 'Plastic', 'Glass', 'Metal']",['Stove'],1801
 underweight,female,omnivore,more frequently,natural gas,walk/bicycle,No Vehicle,often,248,very frequently,29,extra large,5,21,33,1,No,"['Plastic', 'Metal']","['Stove', 'Oven']",2875
 normal,female,vegan,twice a day,wood,private,electric,sometimes,186,frequently,3197,extra large,7,12,22,20,Yes,"['Plastic', 'Metal']","['Grill', 'Airfryer']",2257
@@ -8979,7 +8962,6 @@ overweight,male,vegetarian,twice a day,coal,private,electric,never,201,never,209
 normal,male,vegetarian,less frequently,coal,public,No Vehicle,never,68,very frequently,1683,small,7,11,46,17,Yes,"['Paper', 'Metal']","['Stove', 'Oven', 'Grill', 'Airfryer']",2901
 normal,male,omnivore,more frequently,electricity,walk/bicycle,No Vehicle,sometimes,252,never,64,small,6,8,5,11,No,"['Paper', 'Plastic']",['Oven'],971
 overweight,male,omnivore,less frequently,coal,public,No Vehicle,sometimes,291,never,1179,small,4,8,44,18,Yes,['Plastic'],"['Grill', 'Airfryer']",2243
-underweight,female,vegetarian,more frequently,natural gas,private,petrol,sometimes,232,rarely,7917,large,7,9,43,24,Yes,"['Paper', 'Glass']",['Stove'],4383
 obese,female,omnivore,less frequently,wood,walk/bicycle,No Vehicle,sometimes,56,rarely,12,large,1,20,19,14,No,"['Paper', 'Plastic', 'Metal']","['Stove', 'Oven', 'Microwave']",1195
 underweight,female,vegan,twice a day,electricity,public,No Vehicle,sometimes,291,very frequently,1800,large,5,0,32,15,No,"['Paper', 'Glass', 'Metal']","['Oven', 'Microwave', 'Grill', 'Airfryer']",2165
 normal,female,pescatarian,daily,coal,private,electric,sometimes,104,very frequently,7088,small,4,1,47,5,No,"['Paper', 'Plastic', 'Glass']","['Stove', 'Oven', 'Microwave']",2307
@@ -9182,7 +9164,6 @@ overweight,male,pescatarian,daily,natural gas,private,lpg,never,292,rarely,8761,
 underweight,female,vegan,less frequently,natural gas,private,petrol,sometimes,184,never,4676,large,1,13,4,2,No,"['Paper', 'Plastic']","['Oven', 'Microwave']",1973
 normal,female,pescatarian,daily,coal,private,diesel,never,146,rarely,8950,extra large,6,24,10,13,Sometimes,['Metal'],"['Stove', 'Oven', 'Microwave']",3571
 underweight,female,omnivore,twice a day,electricity,walk/bicycle,No Vehicle,often,96,frequently,43,medium,6,18,19,22,Yes,"['Glass', 'Metal']","['Oven', 'Grill', 'Airfryer']",1585
-obese,male,omnivore,more frequently,wood,private,petrol,sometimes,143,very frequently,2899,large,1,11,33,12,Sometimes,"['Paper', 'Glass', 'Metal']",['Oven'],4367
 normal,male,omnivore,more frequently,natural gas,walk/bicycle,No Vehicle,often,202,never,80,small,1,15,43,0,Yes,[],"['Oven', 'Microwave']",1620
 overweight,female,pescatarian,more frequently,natural gas,walk/bicycle,No Vehicle,often,191,never,45,small,5,14,21,2,Yes,"['Paper', 'Glass', 'Metal']","['Stove', 'Oven', 'Grill', 'Airfryer']",1043
 normal,male,pescatarian,more frequently,natural gas,private,lpg,sometimes,52,very frequently,5848,small,7,21,17,19,Yes,"['Plastic', 'Metal']",['Microwave'],4281
@@ -9381,7 +9362,6 @@ obese,male,pescatarian,less frequently,coal,public,No Vehicle,sometimes,162,neve
 obese,male,pescatarian,daily,coal,public,No Vehicle,never,127,rarely,491,extra large,2,24,11,24,No,['Paper'],"['Stove', 'Microwave', 'Grill', 'Airfryer']",1966
 obese,female,pescatarian,more frequently,electricity,walk/bicycle,No Vehicle,sometimes,108,frequently,6,small,3,14,35,17,Yes,"['Plastic', 'Glass']",['Microwave'],1652
 normal,male,vegetarian,twice a day,natural gas,private,hybrid,sometimes,171,very frequently,7944,large,2,12,19,14,Sometimes,['Metal'],"['Grill', 'Airfryer']",3764
-obese,male,vegan,twice a day,natural gas,private,hybrid,sometimes,115,very frequently,8155,small,7,9,5,23,No,['Glass'],[],4388
 obese,male,vegan,less frequently,natural gas,public,No Vehicle,often,254,very frequently,1799,extra large,2,12,27,16,No,"['Plastic', 'Glass']","['Stove', 'Oven', 'Microwave', 'Grill', 'Airfryer']",3678
 obese,female,pescatarian,daily,electricity,private,lpg,never,120,rarely,4024,large,3,4,38,15,No,['Metal'],"['Stove', 'Microwave']",2524
 normal,male,vegetarian,twice a day,wood,private,electric,sometimes,223,very frequently,6049,medium,1,10,7,8,No,"['Glass', 'Metal']","['Stove', 'Oven', 'Microwave']",2144
@@ -9399,7 +9379,6 @@ obese,male,omnivore,more frequently,wood,private,electric,never,261,very frequen
 underweight,male,pescatarian,more frequently,wood,public,No Vehicle,often,67,very frequently,1220,small,1,14,35,3,No,"['Paper', 'Metal']","['Microwave', 'Grill', 'Airfryer']",2440
 underweight,male,vegan,more frequently,electricity,walk/bicycle,No Vehicle,never,74,rarely,7,extra large,5,7,22,3,Sometimes,"['Plastic', 'Glass', 'Metal']","['Microwave', 'Grill', 'Airfryer']",1246
 underweight,female,vegetarian,twice a day,wood,private,diesel,sometimes,284,never,6645,small,7,14,3,2,Yes,['Glass'],['Stove'],2162
-obese,female,pescatarian,more frequently,electricity,private,hybrid,never,276,frequently,9041,extra large,6,5,42,7,Sometimes,['Paper'],['Stove'],4371
 normal,male,vegetarian,twice a day,wood,public,No Vehicle,often,122,rarely,850,extra large,4,9,21,13,No,"['Paper', 'Plastic', 'Glass', 'Metal']",['Stove'],1614
 underweight,female,omnivore,daily,coal,public,No Vehicle,never,233,very frequently,362,medium,6,5,45,21,Sometimes,"['Plastic', 'Glass']","['Stove', 'Microwave', 'Grill', 'Airfryer']",2927
 overweight,female,vegetarian,less frequently,electricity,private,diesel,sometimes,131,frequently,6486,large,6,19,3,24,Yes,"['Paper', 'Plastic', 'Glass', 'Metal']","['Stove', 'Oven', 'Grill', 'Airfryer']",3096
@@ -9430,7 +9409,6 @@ underweight,male,vegan,daily,coal,private,petrol,often,128,rarely,1756,small,3,3
 underweight,male,vegan,more frequently,natural gas,walk/bicycle,No Vehicle,never,52,very frequently,50,medium,7,14,25,12,No,['Plastic'],"['Stove', 'Microwave', 'Grill', 'Airfryer']",2706
 normal,female,vegan,twice a day,electricity,public,No Vehicle,often,246,very frequently,1594,large,1,8,40,13,Yes,"['Paper', 'Plastic', 'Glass', 'Metal']","['Oven', 'Microwave']",2044
 obese,female,omnivore,twice a day,coal,public,No Vehicle,never,160,rarely,1628,extra large,6,19,39,13,Yes,"['Paper', 'Glass']",['Stove'],2647
-underweight,female,vegan,more frequently,natural gas,private,petrol,often,169,very frequently,6096,small,7,12,49,0,Sometimes,"['Glass', 'Metal']","['Oven', 'Microwave']",4404
 normal,male,pescatarian,twice a day,coal,walk/bicycle,No Vehicle,never,283,rarely,61,small,7,13,1,11,Sometimes,"['Paper', 'Plastic']","['Oven', 'Microwave']",1508
 underweight,female,vegetarian,less frequently,natural gas,walk/bicycle,No Vehicle,never,267,never,96,small,1,20,15,0,Yes,['Metal'],"['Stove', 'Oven']",667
 obese,female,vegetarian,less frequently,natural gas,public,No Vehicle,never,118,frequently,1646,extra large,3,17,4,2,Sometimes,"['Glass', 'Metal']","['Oven', 'Microwave', 'Grill', 'Airfryer']",1689
