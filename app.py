@@ -20,7 +20,7 @@ def load_model():
 df = load_data()
 model = load_model()
 
-st.title("🌍 EcoAware - Carbon Footprint Estimator")
+st.title("🌍 EcoAware - Carbon Footprint Predictor")
 
 st.caption(
     "Estimate your carbon footprint based on everyday habits like travel, diet, and energy use"
